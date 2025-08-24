@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button";
+import { Button } from "./index"; // 메인 export에서 import
 
 function App() {
   return (
